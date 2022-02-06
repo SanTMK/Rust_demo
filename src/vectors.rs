@@ -1,5 +1,6 @@
 pub fn run() {
     let mut numbers: Vec<i32> = vec![1,2,3,4,5];
+    let _arr: Vec<i32> = vec![2,4,6,8,10];
 
     println!("{:?}", numbers);
     numbers.push(20);

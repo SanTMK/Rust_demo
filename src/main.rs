@@ -3,7 +3,8 @@
 //mod types;
 //mod strings;
 //mod arrays;
-mod vectors;
+// mod vectors;
+mod structs;
 
 fn main() {
     //print::run();
@@ -11,5 +12,6 @@ fn main() {
     //types::run();
     //strings::run();
     //arrays::run();
-    vectors::run();
+    // vectors::run();
+    structs::run();
 }
